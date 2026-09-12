@@ -91,3 +91,4 @@ Recognize Faces:
     RUN pip install face_recognition   
     # Command to run the application
     CMD ["python", "detector.py"]
+
