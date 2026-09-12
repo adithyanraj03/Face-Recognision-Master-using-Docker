@@ -92,3 +92,4 @@ Recognize Faces:
     # Command to run the application
     CMD ["python", "detector.py"]
 
+
